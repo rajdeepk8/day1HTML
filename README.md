@@ -2,5 +2,5 @@
 Program to print "Hello World!" in the Screen
 
 ## How to Run
-Open the HTML code in an editor. 
+Open the HTML code in an editor./n 
 Now run the code in live server to print "Hello World!" in the screen
